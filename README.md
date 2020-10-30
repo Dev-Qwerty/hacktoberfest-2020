@@ -55,7 +55,7 @@ For example:
 git checkout -b john-doe
 ```
 
-## Create the programs and committhose changes
+## Create the programs and commit those changes
 
 Create a folder with your name. Navigate to that folder and create your first program. Go to your project directory and excecute the command ```git status```. You can see the changes in red color.
 Add those changes to the branch you just created using the ```git add``` command:
